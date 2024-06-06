@@ -1,4 +1,8 @@
-# Personal-Conflict  - LOCALE
+<<<<<<< HEAD
+# Personal-Conflict  - LOCAl
+=======
+# Personal-Conflict  - LOCAL
+>>>>>>> f8e0a5512bbf8e9a8aa34abac46451fdbaae3918
 
 Bien sûr ! Voici une courte histoire inspirée du style de l'auteur Robert Greene :
 
