@@ -1,4 +1,4 @@
-# Personal-Conflict 
+# Personal-Conflict  - LOCALE
 
 Bien sûr ! Voici une courte histoire inspirée du style de l'auteur Robert Greene :
 
